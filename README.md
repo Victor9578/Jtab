@@ -1,4 +1,9 @@
 # jtab
+***
+
+* clone仓库
+* 将dist文件夹导入至chrome 拓展程序中
+  <p align="right">- by Jaywxl</p>
 
 ## Project setup
 ```
