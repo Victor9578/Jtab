@@ -1,4 +1,4 @@
-# jtab
+# Jtab
 
 > 为chrome做的tab页，替换了Google的搜索引擎。  
 > 使用方法如下：
